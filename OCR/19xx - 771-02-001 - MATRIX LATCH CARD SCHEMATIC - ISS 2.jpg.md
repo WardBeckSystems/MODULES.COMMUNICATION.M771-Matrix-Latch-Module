@@ -32,7 +32,7 @@ M771 matrix latch card schematic Title block at bottom left reading sideways.
 - **Closed boxes:** 165
 - **Wiring (first pass):** 191 connected wire groups from 1,837 runs
 
-Every curve, box, word and wire group: [19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20771-02-001%20-%20MATRIX%20LATCH%20CARD%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20771-02-001%20-%20MATRIX%20LATCH%20CARD%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 
