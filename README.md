@@ -1,16 +1,16 @@
-# M771 · Communication
+# M771 Matrix Latch Module · Communication
 
 Ward-Beck Systems M771. Wiki page: [M771 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M771.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 3 |
 
 ## Schematics
@@ -34,6 +34,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 771-01-001 - MATRIX LATCH MODULE FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%20771-01-001%20-%20MATRIX%20LATCH%20MODULE%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2.kicad_sch](KICAD/19xx%20-%20771-02-001%20-%20MATRIX%20LATCH%20CARD%20SCHEMATIC%20-%20ISS%202.kicad_sch)
 - [M771.kicad_sym](KICAD/M771.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
