@@ -1,5 +1,5 @@
 # 19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2.jpg
-Wiki page: [M771](../../../../PAGES/M771.md)
+Wiki page: [M771](../)
 
 
 - **Year:** unknown (title block (read by eye))

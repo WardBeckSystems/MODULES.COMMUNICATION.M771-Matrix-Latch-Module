@@ -1,6 +1,6 @@
 # M771 Matrix Latch Module · Communication
 
-Ward-Beck Systems M771. Wiki page: [M771 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M771.html)
+Ward-Beck Systems M771. Wiki page: [M771 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M771-Matrix-Latch-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

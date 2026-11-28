@@ -1,5 +1,5 @@
 # 19xx - 771-01-001 - MATRIX LATCH MODULE FUNCTIONAL - ISS 1.jpg
-Wiki page: [M771](../../../../PAGES/M771.md)
+Wiki page: [M771](../)
 
 
 - **Year:** unknown (title block (read by eye))
